@@ -18,7 +18,7 @@
 </p>
 
 <!--Sobre o projeto-->
-## 💻 Sobre o projeto
+## 💻 About Project
 
 Repository for queries of database material I.
 
@@ -29,12 +29,12 @@ Repository for queries of database material I.
 - [x]  **MYSQL**
 
 
-#### Ferramentas
+## Tools
 - [**MYSQL WORKBENCH**]()
 
 <!--License session-->
 ## 📝 License
-### This project is licensed[MIT](./LICENSE).
+### This project is licensed [MIT](./LICENSE).
 ---
 
 <h4 align=center>Developer - Danilo Gaspar <a href="https://idolink.bio/redessociaisdg"> <strong>Contact</strong> :)</a></a></h4>
